@@ -1,6 +1,6 @@
 # 🌍 Travel and Tourism Smart System  
 
-> A modern web app that helps travelers explore, plan, and chat with an AI-powered travel assistant — built using **ReactJS**, **Flask**, and a **Chatbot**.
+> A modern web app that helps travelers explore, plan, and chat with an travel assistant — built using **ReactJS**, **Flask**, and a **Chatbot**.
 
 ---
 
