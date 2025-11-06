@@ -30,12 +30,3 @@ It’s a simple idea — but packed with smart features to bring the travel expe
 | **Frontend** | ReactJS, Tailwind CSS |
 | **Backend** | Flask (Python) |
 | **Database** | MySQL |
-
----
-
-## ⚙️ Installation & Setup  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/your-username/travel-and-tourism-smart-system.git
-cd travel-and-tourism-smart-system
