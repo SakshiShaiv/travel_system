@@ -16,7 +16,7 @@ A complete travel management web app built with **ReactJS (frontend)** and **Fla
 ## 🛠️ Tech Stack
 **Frontend:** ReactJS, Tailwind CSS  
 **Backend:** Flask (Python)  
-**Database:** SQLite / MySQL  
+**Database:** MySQL  
 **API:** Custom REST API integration
 
 ---
